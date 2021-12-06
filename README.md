@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Proyecto con fines de prueba
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto fue creado con [Create React App](https://github.com/facebook/create-react-app).
+
+- [x] Tecnología aplicada React o Vanilla JS
+- [x] CSS
+- [x] Implementada busqueda de productos
+- [x] Consume JSON stático
+- [ ] Posibilidad de cambiar dos columnas a una
 
 ## Available Scripts
 

@@ -1,0 +1,72 @@
+[
+    {
+      "id": "1",
+      "nombre": "Polo manga larga estampado",
+      "precioAnterior": "18,99",
+      "precioActual": "15,19",
+      "descuento": "20",
+      "img": "api/images/polo-manga-larga-combinado-nino_id_11-04154-066-L-4.JPG"
+    },
+    {
+      "id": "2",
+      "nombre": "Polo manga larga combinado",
+      "precioAnterior": "18,99",
+      "precioActual": "15,19",
+      "descuento": "20",
+      "img": "api/images/polo-manga-larga-combinado-nino_id_11-04154-067-M-4.JPG"
+    },
+    {
+      "id": "3",
+      "nombre": "Jersey rayas chico ",
+      "precioActual": "15,19",
+      "img": "api/images/jersey-rayas-chico_id_11-07342-054-M-4.JPG"
+    },
+    {
+      "id": "4",
+      "nombre": "Jersey capucha chico",
+      "precioActual": "15,19",
+      "img": "api/images/jersey-capucha-chico_id_11-07344-047-M-4.JPG"
+    },
+    {
+      "id": "5",
+      "nombre": "Camiseta manga larga ECOFRIENDS contrastes",
+      "precioAnterior": "18,99",
+      "precioActual": "15,19",
+      "descuento": "20",
+      "img": "api/images/camiseta-manga-larga-ecofriends-contrastes-chico_id_11-07015-070-M-4.JPG"
+    },
+    {
+      "id": "6",
+      "nombre": "Pantalón largo tejano slim fit chico ",
+      "precioActual": "27,99",
+      "img": "api/images/pantalon-largo-tejano-slim-fit-chico_id_11-00516-032-M-4.JPG"
+    },
+    {
+      "id": "7",
+      "nombre": "Canguro combinado felpa perchada chico",
+      "precioActual": "15,19",
+      "descuento": "20",
+      "img": "api/images/canguro-combinado-felpa-perchada-chico_id_11-57412-700-M-4.JPG"
+    },
+    {
+      "id": "8",
+      "nombre": "Sudadera combinada chico",
+      "precioAnterior": "18,99",
+      "precioActual": "15,19",
+      "descuento": "20",
+      "img": "api/images/sudadera-combinada-chico_id_11-07419-081-M-4.JPG"
+    },
+    {
+      "id": "9",
+      "nombre": "Pantalón largo chino básico chico",
+      "precioActual": "24,99",
+      "descuento": "20",
+      "img": "api/images/pantalon-largo-chino-basico-chico_id_11-00530-028-M-4.JPG"
+    },
+    {
+      "id": "10",
+      "nombre": "Pantalón largo felpa elástica chico",
+      "precioActual": "31,99",
+      "img": "api/images/pantalon-largo-felpa-elastica-chico_id_11-07552-022-M-4.JPG"
+    }
+  ]
